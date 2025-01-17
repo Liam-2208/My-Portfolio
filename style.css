@@ -1,6 +1,3 @@
-/*-- -------------------------- -->
-<---       Side By Side         -->
-<--- -------------------------- -*/
 
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
@@ -120,15 +117,6 @@
     height: 31.875em;
     right: 0;
     bottom: 0;
-  }
-  #sbs-2201 .cs-kitler {
-    /* 137px - 309px */
-    width: clamp(8.5625rem, 20vw, 19.3125rem);
-    height: auto;
-    display: block;
-    position: absolute;
-    right: -2rem;
-    bottom: -0.5rem;
   }
 }
 
